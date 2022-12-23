@@ -1,0 +1,11 @@
+.main {
+  color: #bebebe;
+  height: 50vh;
+  min-height: auto;
+  margin: auto;
+  padding: 25px;
+  & .meme-img {
+    width: 40vw;
+    margin-bottom: 10%;
+  }
+}
